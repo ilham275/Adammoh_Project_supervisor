@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BELAJAR_RPL\\PAS\\projectPAS\\projectPAS\\projectPAS.vbproj": {}
+  },
+  "projects": {
+    "D:\\BELAJAR_RPL\\PAS\\projectPAS\\projectPAS\\projectPAS.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BELAJAR_RPL\\PAS\\projectPAS\\projectPAS\\projectPAS.vbproj",
+        "projectName": "projectPAS",
+        "projectPath": "D:\\BELAJAR_RPL\\PAS\\projectPAS\\projectPAS\\projectPAS.vbproj",
+        "packagesPath": "C:\\Users\\INTELSYSDATA\\.nuget\\packages\\",
+        "outputPath": "D:\\BELAJAR_RPL\\PAS\\projectPAS\\projectPAS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\INTELSYSDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "Google.Apis.Drive.v2": {
+              "target": "Package",
+              "version": "[1.55.0.2530, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
